@@ -1,0 +1,47 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Vite cache
+.vite/
+
+# Dependency directories
+.pnp/*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime*
+*.swp
+*~
+
+# Test coverage
+coverage/
+
+# Optional npm cache
+.npm
+
+# Misc
+.cache/
+.parcel-cache/
+report.html
